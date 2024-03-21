@@ -1,2 +1,2 @@
-# fakenewsdetection
-Machine learning based Final year project
+# FakeNewsDetection
+This final year project aims to enhance proficiency in Machine Learning (ML) and Natural Language Processing (NLP) by developing a system capable of classifying news statements as either true or false. The system integrates sentiment analysis, linguistic analysis, and knowledge-based analysis, utilizing a BERT model and a Random Forest classifier for precise predictions. Users can interact with the system through a browser extension, submitting news statements for classification and receiving results along with confidence levels.
